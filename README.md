@@ -33,9 +33,20 @@ Built with Python, this tool allows users to open any readable PDF, view its con
    python pdf_audiobook.py
    ```
 
-4. **App Output Screenshots**  
-   📄 You can view a sample output (screenshots) here:  
-   👉 [PDF_AudioBook.pdf](PDF_AudioBook.pdf)
+---
+
+## 📸 Output Screenshots
+
+Here are some previews of the app:
+
+### 🔹 Home Interface
+![Home Interface](screenshot615)
+
+### 🔹 PDF Content and Controls
+![PDF View](images/screenshot2.png)
+
+> 💡 You can also download all screenshots in one file:  
+👉 [PDF_AudioBook.pdf](PDF_AudioBook.pdf)
 
 ---
 
@@ -43,7 +54,7 @@ Built with Python, this tool allows users to open any readable PDF, view its con
 
 - `pyttsx3`
 - `PyPDF2`
-- `tkinter` (included with Python standard library)
+- `tkinter` (included with Python)
 
 ---
 
@@ -65,3 +76,4 @@ Made with 💙 using Python and Tkinter
 ## ⭐ Show Your Support
 
 If you like this project, **star the repository ⭐** and share it with your friends or on LinkedIn!
+
