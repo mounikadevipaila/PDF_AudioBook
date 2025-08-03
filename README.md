@@ -7,13 +7,13 @@ Built with Python, this tool allows users to open any readable PDF, view its con
 
 ## 💡 Features
 
-- ✅ Open and read any PDF file
-- ✅ Converts PDF text into speech using `pyttsx3`
-- ✅ Pause and resume reading with:
-  - 🛑 Stop Reading
-  - ▶️ Continue Reading
-- ✅ Displays extracted text in a stylish scrollable text box
-- ✅ Dark-themed user interface
+- ✅ Open and read any PDF file  
+- ✅ Converts PDF text into speech using `pyttsx3`  
+- ✅ Pause and resume reading with:  
+  - 🛑 Stop Reading  
+  - ▶️ Continue Reading  
+- ✅ Displays extracted text in a stylish scrollable text box  
+- ✅ Dark-themed user interface  
 
 ---
 
@@ -22,11 +22,46 @@ Built with Python, this tool allows users to open any readable PDF, view its con
 1. **Clone the repository** or [Download ZIP](https://github.com/mounikadevipaila/PDF_AudioBook/archive/refs/heads/main.zip)
 
 2. **Install dependencies**
+
    ```bash
    pip install pyttsx3 PyPDF2
-3.**Run the app**
-   python pdf_audiobook.py
-**App Output Screenshots**
-📄 You can view a sample output (screenshots) here:
-👉 PDF_AudioBook.pdf
+   ```
 
+3. **Run the app**
+
+   ```bash
+   python pdf_audiobook.py
+   ```
+
+4. **App Output Screenshots**  
+   📄 You can view a sample output (screenshots) here:  
+   👉 [PDF_AudioBook.pdf](PDF_AudioBook.pdf)
+
+---
+
+## 📦 Dependencies
+
+- `pyttsx3`
+- `PyPDF2`
+- `tkinter` (included with Python standard library)
+
+---
+
+## 🎨 UI Preview
+
+> Sleek dark-themed interface with clear buttons:  
+> 📂 Open PDF & Read | 🛑 Stop Reading | ▶️ Continue Reading  
+> Scrollable text area with live extracted PDF content
+
+---
+
+## 👩‍💻 Author
+
+**Mounika Devi Paila**  
+Made with 💙 using Python and Tkinter
+
+---
+
+## ⭐ Show Your Support
+
+If you like this project, **star the repository ⭐** and share it with your friends or on LinkedIn!
