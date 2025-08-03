@@ -24,8 +24,9 @@ Built with Python, this tool allows users to open any readable PDF, view its con
 2. **Install dependencies**
    ```bash
    pip install pyttsx3 PyPDF2
-3. **Run the app**
+3.**Run the app**
    python pdf_audiobook.py
-4.**App Output Screenshots**
-   📄 You can view a sample output (screenshots) here:
+**App Output Screenshots**
+📄 You can view a sample output (screenshots) here:
 👉 PDF_AudioBook.pdf
+
